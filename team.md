@@ -1,0 +1,24 @@
+---
+layout: page
+title: Team
+# subtitle: Why you'd want to go on a date with me
+---
+
+
+NUTRIA is being pursued by a multidisciplinary team of four institutions with proven experience in nutrition, gestational diabetes, ethnographic fieldwork, Participatory Design and mHealth, which will be essential for the creation of a mobile app for pregnant women with gestational diabetes.  The project partners are:
+
+
+**Fraunhofer Portugal AICOS [coordinator]** (AICOS) is an applied research centre from Portugal focused on supporting industry through research- and technology-based innovation, namely in the healthcare sector. The centre has a strong track record of co-designing technologies to support chronic condition monitoring and self-care. The experience of designing self-care technologies is leveraged in this project to support pregnant women in learning to care for gestational diabetes. The team is currently coordinating projects on nutrition recommendations, maternal and child health literacy, and chronic condition monitoring using smartphones, which have synergies with this project. The main research areas of AICOS are Human-Centred Design, Artificial Intelligence, and Cyber-physical systems. <https://www.aicos.fraunhofer.pt>
+
+
+**Centro Hospitalar Póvoa de Varzim- Vila do Conde** (CHPVVC) is a public hospital of the National Health Service (SNS) that merged two old hospitals, one in Póvoa de Varzim and another in Vila do Conde. CHPVVC is guided by the following values: Guidance patient-centred on promoting the health of the community; Respect for human dignity; Defense and application of ethical principles in personal, professional and institutional relationships; A culture of technical excellence and care; A culture of knowledge as a good in itself; Availability for the development of partnerships with other institutions. Their clinical practices are very patient centred and humanist, which has brought to CHPVVC some notorious awards and both national and international references, especially in the Obstetrics and Gynecology Service. In 2021, the hospital had 1470 births, many from women outside of its geographic area of influence, which evidences the excellence of the Obstetrics and Gynaecology Service. <https://www.chpvvc.min-saude.pt/>
+
+**Centro Hospitalar Universitário de Santo António** (CHUdSA) is one of Portugal's leading clinical and University hospitals. The Hospital Center is structured as a campus supported by three areas: the Hospital de Santo António devoted to multisystem diseases and infectious disorders; Centro Materno-Infantil do Norte for mother and child health and Centro de Genética Médica for genetics. The Department of Education, Training and Research (DEFI) of CHUP oﬀers wide support for clinical researchers, working in partnership with academia, funding agencies and the industry. DEFI contributes to the development of therapies through clinical trials (phases I to IV) and medical devices studies, by providing support through study management, funding and budget. CHUP is a scientific partner of the Portuguese Clinical Research Infrastructure Network (PtCRIN), which is connected to the European Network Infrastructure ECRIN. DEFI promotes partnerships with other hospitals and universities, as well as with FCT aﬀiliated research units. In addition, CHUP has sixteen certificated national reference centres and integrate six European networks of rare diseases. <https://www.chporto.pt/>
+
+**Faculty of Engineering** (FEUP) is the largest faculty of the University of Porto, with more than 8600 students, 86 courses and close to 600 teachers and researchers across 9 departments of engineering including Informatics and Computing, Electrical and Computer Engineering. The main Research & Innovation areas of activity are Environment Technologies, Sea Technologies, Food Technologies, Biotechnology, Health Technologies, Materials Technologies, Mechanical Engineering, Electrical Engineering, Automation and Control, Information and Telecommunication Technologies, Systems Technologies, Energy Systems and Energy, Quality and Food Safety, Risk Prevention and Reduction, Industrial Management. FEUP is located in the Porto Innovation District, where the strong presence of engineering technologies, health sciences and entrepreneurship lend considerable impetus to the process of innovation. An example is the Science and Technology Park of University of Porto (UPTEC), a fundamental structure of support knowledge transfer between the university and the market. <https://sigarra.up.pt/feup/pt/web_page.inicial>
+
+
+### External collaborators
+
+- Chia-Fang (Christina) Chung, University of California Santa Cruz
+- Nervo Verdezoto, Cardiff University
