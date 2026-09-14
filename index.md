@@ -5,26 +5,26 @@ title: NUTRIA
 ---
 
 
-NUTRIA is a research project that is developing a system to support the self-care of women with gestational diabetes. We are exploring the challenges faced by women with gestational diabetes in managing their condition, drawing on ethnographic and participatory research with patients, dietitians, doctors, and family members. NUTRIA system will offer tailored meal plans and recommendations and empower women to make informed dietary choices. Moreover, NUTRIA will provide scientific contributions to the areas of Human-Computer Interaction (HCI), Recommender Systems, and Medical Informatics.<br/><br/>
+NUTRIA was a research project that focused on the development of a system to support the self-care of women with gestational diabetes. We explored the challenges faced by women with gestational diabetes in managing their condition, drawing on ethnographic and participatory research with patients, dietitians, and nurses. NUTRIA system integrated personalized meal plans, monitoring of blood glucose and an educational intervention, connecting patients with GD with their care team. Moreover, NUTRIA fostered sharing and dissemination of knowledge regarding user research, participatory design, and Human-Computer Interaction across clinical institutions.<br/><br/>
 
 
 ## Motivation
 
-Gestational diabetes (GD) is a perinatal condition that can harm both mothers and fetuses if blood sugar levels are uncontrolled, leading to pregnancy complications and health risks. Women with GD need to manage their blood sugar, diet, and activity to prevent these issues, but this can be challenging as they have to learn new eating behaviours like portion control and find appropriate food equivalents. Self-care technologies could help by supporting learning and offering personalized meal plans. The goal of NUTRIA is thus to empower informed eating decisions and provide nutritional education. Dietitians will be able to input nutritional requirements and restrictions on a dedicated web platform. Patients will receive tailored meal plans and recommendations for managing gestational diabetes during pregnancy. The plans will be flexible enough to accommodate practical food choices aligned with the patient's cultural practices, religious beliefs (like avoiding certain foods), and personal food preferences. <br/><br/>
+Gestational diabetes (GD) is a perinatal condition that can harm both mothers and fetuses if blood sugar levels are uncontrolled, leading to pregnancy complications and health risks. Women with GD need to manage their blood sugar, diet, and activity to prevent these issues, but this can be challenging as they have to learn new eating behaviours like portion control and find appropriate food equivalents. Self-care technologies could help by supporting learning and offering personalized meal plans. The goal of NUTRIA was  to empower informed eating decisions and provide nutritional education. In the NUTRIA system, dietitians would personalize meal plans and define monitoring timings for managing gestational diabetes during pregnancy. Patients were able to assess the meal plans, track their blood glucose values and learn more information on the disease, nutrition in pregnancy and gestational diabetes and lifestyle factors that influenced GD. The content was aligned with the patient’s cultural practices, and personal food preferences.<br/><br/>
 
 
 
 ## Approach
 
-We will start the project by investigating the self-care practices and challenges of women with GD and their dietitians, using ethnographic fieldwork and participatory design activities with dietitians, women with GD, and other relevant stakeholders. <br/>
+To better understand  the self-care practices and challenges of women with GD and their dietitians, we conducted user research and participatory design with women with GD, dietitians and nurses.<br/>
 
-NUTRIA will create and validate a system to support the self-care of pregnant women with gestational diabetes (GD), composed of a mobile app for patients and a web platform for dietitians. NUTRIA’s mobile app will enable women with GD to receive tailored meal plans and nutritional messages/notifications for adopting healthy eating practices. The NUTRIA web platform will enable dietitians to set up the nutritional profile of the patients, craft messages/notifications for patients, and monitor and adjust meal plans remotely.  <br/>
+NUTRIA System is an integrated system to support the self-care of pregnant women with gestational diabetes (GD), composed of a mobile app for patients and a web platform for dietitians. The NUTRIA web app enables dietitians to create the patients profile, develop a personalized meal plan and monitor their blood glucose values. NUTRIA’s mobile app has three main features: Meal plan visualization, Monitoring of blood glucose and educational intervention on GD. <br/>
 
-We will conduct user research and participatory design with patients and dietitians to improve the system and develop more features. Furthermore, we will conduct field trials to evaluate and improve the system, and to analyse the effects and impact of the intervention.  <br/><br/>
+We conducted three field trials, in Portugal and Bangladesh, with over 140 participants, to assess the system’s usability and to better understand how the educational intervention changed patient’s literacy on GD. <br/><br/>
 
 ## Project Goals
 
-With NUTRIA we plan on addressing the challenges faced by women with gestational diabetes (GD) in managing their condition through proper nutrition. In more depth, our goals are as follows: 
+With NUTRIA we addressed the challenges faced by women with gestational diabetes (GD) in managing their condition through changes in their dietary intake and physical activity . In more depth, our goals were as follows:
 
 * Understand the challenges of the disease, self-care, and how pregnant women learn to live with gestational diabetes; 
 * Engage in participatory design to develop a personalised self-care technology; 

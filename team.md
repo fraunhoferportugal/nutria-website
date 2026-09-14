@@ -5,7 +5,7 @@ title: Team
 ---
 
 
-NUTRIA is being pursued by a multidisciplinary team of four institutions with proven experience in nutrition, gestational diabetes, ethnographic fieldwork, Participatory Design and mHealth, which will be essential for the creation of a mobile app for pregnant women with gestational diabetes.  The project partners are:
+NUTRIA was pursued by a multidisciplinary team of four institutions with proven experience in nutrition, gestational diabetes, ethnographic fieldwork, Participatory Design and mHealth, which were essential for the creation of a mobile app for pregnant women with gestational diabetes. The project partners were:
 
 
 **Fraunhofer Portugal AICOS [coordinator]** (AICOS) is an applied research centre from Portugal focused on supporting industry through research- and technology-based innovation, namely in the healthcare sector. The centre has a strong track record of co-designing technologies to support chronic condition monitoring and self-care. The experience of designing self-care technologies is leveraged in this project to support pregnant women in learning to care for gestational diabetes. The team is currently coordinating projects on nutrition recommendations, maternal and child health literacy, and chronic condition monitoring using smartphones, which have synergies with this project. The main research areas of AICOS are Human-Centred Design, Artificial Intelligence, and Cyber-physical systems. <https://www.aicos.fraunhofer.pt>
